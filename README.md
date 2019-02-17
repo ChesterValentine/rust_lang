@@ -1,0 +1,1 @@
+Simply a skeleton of a Rust program
